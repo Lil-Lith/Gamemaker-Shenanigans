@@ -1,0 +1,1 @@
+obj_test_thingy_1.alarm[0] = 1;

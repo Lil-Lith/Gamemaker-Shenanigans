@@ -1,0 +1,1 @@
+time_explode = 200;

@@ -1,0 +1,1 @@
+global.mouaCoin += 1;

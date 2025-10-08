@@ -1,0 +1,1 @@
+rot = random_range(500, 700);

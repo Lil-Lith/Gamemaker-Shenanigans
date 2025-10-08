@@ -1,0 +1,1 @@
+draw_text(room_width/2, 16, string(global.mouaCoin));

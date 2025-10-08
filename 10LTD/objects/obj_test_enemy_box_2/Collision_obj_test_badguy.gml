@@ -1,0 +1,1 @@
+obj_test_thingy_2.alarm[0] = 1;
