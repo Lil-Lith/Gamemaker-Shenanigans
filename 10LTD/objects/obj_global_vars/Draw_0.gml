@@ -18,3 +18,7 @@ draw_text(224, 32, string(global.placement_cooldown_3));
 draw_text(48, 16, "FPS: " + string(fps) );
 draw_text(48, 32, string(global.selected) );
 draw_text(48, 48, string(time) );
+
+//grid display debug
+draw_set_alpha(.5);
+mp_grid_draw(global.mp_lawn_grid);

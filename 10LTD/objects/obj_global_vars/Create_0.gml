@@ -10,4 +10,6 @@ global.selected = 0;
 time = 0;
 
 enemy_time = 300;
-scale = .5;
+scale = .5
+
+global.mp_lawn_grid = mp_grid_create(128, 64, 10, 8, 64, 64);
