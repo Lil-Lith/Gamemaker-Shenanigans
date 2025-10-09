@@ -1,0 +1,1 @@
+draw_sprite_ext(odieeatbar, bartimer, x, y, 2, 2, false, image_blend, true);

@@ -1,0 +1,1 @@
+global.travelgrid = mp_grid_create(0, 0, 15, 15, 64, 64);

@@ -1,11 +1,11 @@
 {
   "$GMSprite":"",
   "%Name":"spr_Moua",
-  "bboxMode":0,
-  "bbox_bottom":135,
-  "bbox_left":2,
-  "bbox_right":150,
-  "bbox_top":13,
+  "bboxMode":2,
+  "bbox_bottom":132,
+  "bbox_left":23,
+  "bbox_right":124,
+  "bbox_top":32,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":154,
+  "height":120,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"47db696a-f901-4cbb-871b-c44070de7cf7","blendMode":0,"displayName":"default","isLocked":false,"name":"47db696a-f901-4cbb-871b-c44070de7cf7","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":154,
+  "width":150,
 }

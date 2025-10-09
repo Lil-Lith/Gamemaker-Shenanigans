@@ -1,1 +1,2 @@
-autoDelay = 300;
+//when left mouse held, lmouseDown is true
+lmouseDown = true;

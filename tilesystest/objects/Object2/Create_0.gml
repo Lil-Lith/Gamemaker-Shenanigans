@@ -1,0 +1,1 @@
+mp_grid_add_instances(global.travelgrid, self.id, false);
