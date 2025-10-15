@@ -1,1 +1,1 @@
-global.mouaCoin += 1;
+global.mouaCoin += round(1 * global.mouaCoinMult);
