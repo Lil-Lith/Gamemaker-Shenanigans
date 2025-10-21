@@ -1,5 +1,5 @@
 //set mouaCoin before play
-global.mouaCoin = 900000000000; 
+global.mouaCoin = 900; 
 
 //left mouse down, used to check if being its held
 lmouseDown = false;
