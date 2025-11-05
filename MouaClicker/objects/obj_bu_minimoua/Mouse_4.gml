@@ -2,3 +2,8 @@
 if (buPressCount > 0)	{
 	buPressed = true;
 }
+if (global.mouaCoin >= minimouaCost)	{
+	global.mouaCoin -= minimouaCost;
+	++minimouaCount;
+	minimouaCost = minimouaCost + round(minimouaCost * (minimouaCount * .15) );
+}
