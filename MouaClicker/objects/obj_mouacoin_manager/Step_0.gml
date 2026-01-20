@@ -6,8 +6,7 @@ if (goodtimer > 0 )	{
 	global.mouaCoin = global.mouaCoin + (global.mouaCoinMult * (obj_bu_checkpoint.checkpointCount * 10));
 }
 if (goldmouaTimer > 0)	{
-		--goldmouaTimer;
+		//--goldmouaTimer;
 } else {
 	goldmouaTimer = 60;
-	instance_create_layer(random(room_width), random(room_height), "Instances", obj_gold_moua);
 }

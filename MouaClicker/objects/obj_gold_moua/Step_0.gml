@@ -1,5 +1,5 @@
-if (gmLoopTimer > gmLoopCur)	{
-	++gmLoopCur
+if (gmLoopCur < gmLoopTimer)	{
+	++gmLoopCur;
 }	else	{
 	gmLoopCur = gmLoopTimer;
 }

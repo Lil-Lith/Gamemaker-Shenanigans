@@ -1,5 +1,2 @@
-goldMouaTimer = 600;
-goldMouaCurTimer = 1;
-
-gmLoopTimer = 60;
+gmLoopTimer = 1;
 gmLoopCur = 0;
